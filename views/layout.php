@@ -36,7 +36,12 @@
                             <li>
                                 <a class="dropdown-item nav-link text-white " href="/aplicaciones/nueva"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Subitem</a>
                             </li>
+
+                            <li>
+                                <a class="dropdown-item nav-link text-white " href="/graficacli/cliente/index"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>GRAFICA CLIENTES</a>
+                            </li>
                         
+                         
                     
                         
                         </ul>

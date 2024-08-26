@@ -11,7 +11,7 @@
 </div>
 
 <div class="row justify-content-center">
-    <div class="col">
+    <div class="col-lg-6">
         <canvas id="chartCompras" width="100%"></canvas>
     </div>
 </div>

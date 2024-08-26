@@ -21,7 +21,7 @@ const data = {
 
 
 const chartProducto = new Chart(ctx, {
-    type: 'pie',
+    type: 'bar', //PIE
     data: data,
 
 })
